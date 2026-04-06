@@ -1,6 +1,6 @@
-# AgriAssist - Smart Farming Companion 🌾
+# KisanSetu - Smart Farming Companion 🌾
 
-AgriAssist is an intelligent agricultural mobile application designed to support farmers with AI-powered farming guidance, real-time weather insights, pest detection, soil health analysis, and market price tracking.
+KisanSetu is an intelligent agricultural mobile application designed to support farmers with AI-powered farming guidance, real-time weather insights, pest detection, soil health analysis, and market price tracking.
 
 
 ## Demo Video Link : https://youtube.com/shorts/UDDsZLbjiGw
